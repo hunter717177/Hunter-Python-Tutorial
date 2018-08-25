@@ -16,6 +16,6 @@ class Stack:
 
 x = Stack()
 x.push(10)
-x.push(5
+x.push(5)
 print(x.store)
 print(x.store, x.pop())
